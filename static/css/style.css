@@ -1,0 +1,33 @@
+*{
+  padding:0;
+  margin:0;
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+table tr td{
+  height: 50px;
+  width: 50px;
+}
+
+.second-board{
+  display: inline-block;
+}
+
+
+
+h1{
+  text-align: center;
+}
+
+.color3{
+  background-color: peachpuff;
+}
+
+.color4{
+  background-color: black;
+}
